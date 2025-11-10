@@ -7,9 +7,8 @@ Além do esporte, também aprecio jogos de ação no celular, que me ajudam a de
 
 ***Sobre mim***
 - **Idade**: **15 anos**
-- **Cidade**: **Altos do Ipanema, Sorocaba – São Paulo, Brasil**
-- **Personalidade**: **
-- **Interesses**: **sincero, empático, resiliente, comunicativo**
+- **Cidade**: **Altos do Ipanema, Sorocaba – São Paulo, Brasil** 
+- **Personalidade**: **sincero, empático, resiliente, comunicativo**
 - **O que me motiva**: ***Ser uma pessoa melhor a cada dia é um exercício de consciência e presença. É compreender que o tempo é o único recurso que não se renova, e que cada escolha molda o caminho que percorremos inclusive aquelas oportunidades que deixamos escapar. Pensar no futuro é olhar para o espelho do amanhã e se perguntar: “E se eu tivesse tentado?”***
 ***Cada erro carrega uma lição, cada queda ensina a importância de recomeçar. Amadurecer é entender que a vida não é feita apenas de conquistas, mas de descobertas inclusive sobre quem somos quando o mundo parece cruel. E, mesmo diante da dureza da realidade, escolho manter a esperança viva, acreditando que evoluir não é apenas adaptar-se, mas transformar-se em alguém mais humano, consciente e capaz de inspirar mudanças, tanto no mundo real quanto no digital.**
 
@@ -28,14 +27,11 @@ Além do esporte, também aprecio jogos de ação no celular, que me ajudam a de
 ***Animais de estimação são fonte de alegria e afeto. Gosto de observar seu comportamento, cuidar deles e compartilhar momentos simples, mas cheios de amor.***
 
 # 👔 Meus objetivos
+- ***🛡️Superar desafios com resiliência***
+- ***🧠Sustentar uma mentalidade forte***
+- ***🌍Conhecer novos países***
+- ***✅Morrer sem nenhum arrependimento***
 
-
-[Descreva um objetivo válido]
-
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
-[Liste 4 objetivos]
 
 
 Markdown e documentação digital
