@@ -41,12 +41,4 @@ Além do esporte, também aprecio jogos de ação no celular, que me ajudam a de
 
 ***Uma frase que me representa é:"Concluí apenas um fragmento da obra e hesitei em tocá-lo novamente; não por completude, mas porque cada traço ali guardava a memória do meu esforço. Assim aprendi que o apego não nasce da forma que alcançamos, mas da parcela de nós que nela permanecemos."***
 
-
-
-
-
-
-
-
-
-Me encontre no GitHub como [@usuario](https://github.com/usuario)
+- ***Me encontre no GitHub como: Henrique-de-Sousa***
