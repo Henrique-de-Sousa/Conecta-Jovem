@@ -1,6 +1,6 @@
 # 😄✨ Olá, meu nome é Henrique Annunciato De Sousa
 
-Minha foto:
+Minha foto:https://chatgpt.com/s/m_691797bd706481918b6a77cfb8d59e2d
 
 ***Sou uma pessoa comunicativa, otimista e sincera, com um forte senso de empatia e respeito pelas pessoas ao meu redor. Gosto de manter um estilo de vida ativo, praticando diversos esportes especialmente futebol e vôlei não apenas pela competição, mas pelo prazer de me divertir, aprender e fortalecer o trabalho em equipe.
 Além do esporte, também aprecio jogos de ação no celular, que me ajudam a desenvolver raciocínio rápido e concentração. Acredito que cada atividade, seja física ou digital, contribui para o meu crescimento pessoal e para aprimorar habilidades como foco, cooperação e resiliência.***
