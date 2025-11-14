@@ -34,27 +34,19 @@ Além do esporte, também aprecio jogos de ação no celular, que me ajudam a de
 
 
 
-Markdown e documentação digital
-[Vamos fazer um link com nosso primeiro artigo] 
-“Como usar o GitHub para criar e compartilhar ideias”
-“Conceitos de cidadania e segurança online”
-“Conceitos de segurança da informação”
+# 🤖 Minha identidade digital
+- ***Meu email principal para saber mais sobre meu dia e como eu faço: gmshenrique2@gmail.com***
+
+- ***Meu email para trbalhos: rickzeero@gmail.com***
+
+***Uma frase que me representa é:"Concluí apenas um fragmento da obra e hesitei em tocá-lo novamente; não por completude, mas porque cada traço ali guardava a memória do meu esforço. Assim aprendi que o apego não nasce da forma que alcançamos, mas da parcela de nós que nela permanecemos."***
 
 
-(essas linhas podem ser adaptadas a qualquer fase do curso)
 
-Uma frase que me representa
 
-[Escolha uma frase e faça uma citação]
 
-Um pouco da minha identidade digital
 
-[Gera no chat gpt uma imagem sua] Imagem ou avatar opcional: ./img/avatar.png
 
-(podem colocar uma imagem livre, um desenho próprio, ou até criar um avatar no Canva ou Bitmoji)
 
-Como me encontrar
 
-Opcional — somente se for autorizado pelo facilitador:
-E-mail de contato: [opcional]
 Me encontre no GitHub como [@usuario](https://github.com/usuario)
