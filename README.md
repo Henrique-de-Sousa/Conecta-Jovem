@@ -1,6 +1,7 @@
 # 😄✨ Olá, meu nome é Henrique Annunciato De Sousa
 
-Minha foto:https:![1763154129645](https://github.com/user-attachments/assets/ef902dc5-2e5b-4b9b-a349-f6228b10f672)
+<img src="https://github.com/user-attachments/assets/b4772a50-094d-44a7-a1e2-7440d4ca9ea5" width="200" />
+
 
 
 ***Sou uma pessoa comunicativa, otimista e sincera, com um forte senso de empatia e respeito pelas pessoas ao meu redor. Gosto de manter um estilo de vida ativo, praticando diversos esportes especialmente futebol e vôlei não apenas pela competição, mas pelo prazer de me divertir, aprender e fortalecer o trabalho em equipe.
